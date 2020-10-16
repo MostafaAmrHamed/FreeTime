@@ -1,0 +1,12 @@
+/*
+@font-face {
+    font-family: 'VALORANT Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('VALORANT Regular'), url('Valorant Font.woff') format('woff');
+}
+*/
+
+body{
+    background-color: #1b1b2f;
+}
